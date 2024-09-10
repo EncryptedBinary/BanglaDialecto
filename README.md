@@ -31,6 +31,7 @@ of noise reduction and splitting into manageable 5-second speech segments; simil
 ## Result
 #### Comparative evaluation of pretrained and fine-tuned models on dialect speech-to-text and dialect text to standard text translation tasks.
 
+
 !<img width="658" alt="2024-09-10 (3)" src="https://github.com/user-attachments/assets/583ab084-4701-459c-93aa-7dcdbba1ae25">
 
 ## 🧪 Train-Test-Split
