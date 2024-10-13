@@ -61,18 +61,10 @@ For those interested in fine-tuning the models further, we recommend checking ou
 - **Loss Function**: 
 - **Optimization**:
 ### References
-[1] M. A. Al Amin, M. T. Islam, S. Kibria, and M. S. Rahman, “Continuous
-bengali speech recognition based on deep neural network,” in 2019
-international conference on electrical, computer and communication
-engineering (ECCE). IEEE, 2019, pp. 1–6. (https://ieeexplore.ieee.org/document/8679341)
-[2] S. Khan, M. Pal, J. Basu, M. S. Bepari, and R. Roy, “Assessing
-performance of bengali speech recognizers under real world conditions
-using gmm-hmm and dnn based methods.” in SLTU, 2018, pp. 192–196. (https://www.researchgate.net/publication/328068468_Assessing_Performance_of_Bengali_Speech_Recognizers_Under_Real_World_Conditions_using_GMM-HMM_and_DNN_based_Methods)
-[3] A. M. Samin, M. H. Kobir, S. Kibria, and M. S. Rahman, “Deep
-learning based large vocabulary continuous speech recognition of an
-under-resourced language bangladeshi bangla,” Acoustical Science and
-Technology, vol. 42, no. 5, pp. 252–260, 2021. (https://www.jstage.jst.go.jp/article/ast/42/5/42_E2079/_article/-char/ja/)
-[4] P. R. Gudepu, G. P. Vadisetti, A. Niranjan, K. Saranu, R. Sarma,
-M. A. B. Shaik, and P. Paramasivam, “Whisper augmented end-toend/hybrid speech recognition system-cyclegan approach.” in INTERSPEECH, 2020, pp. 2302–2306. (https://www.isca-archive.org/interspeech_2020/gudepu20_interspeech.html)
+[1] M. A. Al Amin, M. T. Islam, S. Kibria, and M. S. Rahman, “Continuous bengali speech recognition based on deep neural network,” in 2019 international conference on electrical, computer and communication engineering (ECCE). IEEE, 2019, pp. 1–6.  (https://ieeexplore.ieee.org/document/8679341)
+[2] S. Khan, M. Pal, J. Basu, M. S. Bepari, and R. Roy, “Assessing performance of bengali speech recognizers under real world conditions
+ using gmm-hmm and dnn based methods.” in SLTU, 2018, pp. 192–196.(https://www.researchgate.net/publication/328068468_Assessing_Performance_of_Bengali_Speech_Recognizers_Under_Real_World_Conditions_using_GMM-HMM_and_DNN_based_Methods)
+[3] A. M. Samin, M. H. Kobir, S. Kibria, and M. S. Rahman, “Deep learning based large vocabulary continuous speech recognition of an under-resourced language bangladeshi bangla,” Acoustical Science and Technology, vol. 42, no. 5, pp. 252–260, 2021 (https://www.jstage.jst.go.jp/article/ast/42/5/42_E2079/_article/-char/ja/)
+[4] P. R. Gudepu, G. P. Vadisetti, A. Niranjan, K. Saranu, R. Sarma, M. A. B. Shaik, and P. Paramasivam, “Whisper augmented end-to end/hybrid speech recognition system-cyclegan approach.” in INTERSPEECH, 2020, pp. 2302–2306. (https://www.isca-archive.org/interspeech_2020/gudepu20_interspeech.html)
 
 
