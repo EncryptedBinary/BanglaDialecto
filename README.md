@@ -35,15 +35,16 @@ of noise reduction and splitting into manageable 5-second speech segments; simil
 !<img width="658" alt="2024-09-10 (3)" src="https://github.com/user-attachments/assets/583ab084-4701-459c-93aa-7dcdbba1ae25">
 
 ### 1. Clone the Repository
-```bash
-git clone https://github.com/EncryptedBinary/BanglaDialecto.git
-cd BanglaDialecto
+  ```bash
+  git clone https://github.com/EncryptedBinary/BanglaDialecto.git
+  cd BanglaDialecto
+  ```
+  2. Install Required Packages
+  Run the following commands to install the necessary libraries:
+  ```python 
+  !pip install transformers 
+  !pip install jiwer
 ```
-2. Install Required Packages
-Run the following commands to install the necessary libraries:
-```python 
-!pip install transformers 
-!pip install jiwer
 
 
 ## 🧪 Train-Test-Split
@@ -60,6 +61,8 @@ For those interested in fine-tuning the models further, we recommend checking ou
 - **Epochs**:  All models are trained for 10 epochs, 16 batches for ASR, 25 epochs, and 6 batches for translation.
 - **Loss Function**: 
 - **Optimization**:
+
+
 ### References
 [1] M. A. Al Amin, M. T. Islam, S. Kibria, and M. S. Rahman, “Continuous bengali speech recognition based on deep neural network,” in 2019 international conference on electrical, computer and communication engineering (ECCE). IEEE, 2019, pp. 1–6.  (https://ieeexplore.ieee.org/document/8679341)
 [2] S. Khan, M. Pal, J. Basu, M. S. Bepari, and R. Roy, “Assessing performance of bengali speech recognizers under real world conditions
